@@ -14,5 +14,5 @@ timestamps.txt format example:
 00:02:04 00:05:37 name_of_file2.mp3
 ```
                                       
-All timestamps have to be in `HH:MM:SS`format. The name of each resulting audio file has to include its extension (in the case above, .mp3), or the script won't work properly.                                                 
+All timestamps have to be in `HH:MM:SS` format. The name of each resulting audio file has to include its extension (in the case above, .mp3), or the script won't work properly.                                                 
 
